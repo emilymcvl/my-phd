@@ -12,16 +12,16 @@ Thus: Research. With a capital R and a slightly manic glint in the eye.
 
 
 
-**Chapter 1: Make crickets researchable**
+**Chapter 1: Make crickets researchable** | 
 (Make a system where the tiny idiots an be studied without a magnifying glass and a breakdown.)
 
-**Chapter 2: Maximise yield**
+**Chapter 2: Maximise yield** | 
 The goal is simple: more crickets, bigger crickets, fewer dead crickets. The method? Pack them in like commuters on the Jubilee line and figure out what makes them start dying en masse.
 
-**Chapter 3: Launch them into space**
+**Chapter 3: Launch them into space** | 
 Eventually, someone’s going to try to eat breakfast on Mars,and raymeon packets take up alot of space (I would know). 
 
-**Chapter 4: Make it all look good**
+**Chapter 4: Make it all look good** | 
 Tell the story. With art. Because people don’t read white papers, but they will stare at a pretty picture and say “Oh wow, that’s deep,”.
 
 Now, while I await my Nobel Prize, I'm off to law school.
