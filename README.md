@@ -1,15 +1,14 @@
 #### Alexa, play “SexyBack.” I’ve finished my PhD.
 
-In short: the human species has an unfortunate habit of reproducing. Enthusiastically. The planet, meanwhile, has a rather more finite approach to resources—food, in particular, being a touchy subject when everyone insists on eating daily.
+In short: the human species has an unfortunate habit of reproducing. Enthusiastically. The planet, meanwhile, has a rather more finite approach to resources. Food, in particular, being a touchy subject when everyone insists on eating daily.
 
 Now, forcibly limiting the population à la Thanos or Eren Yeager is considered poor form at dinner parties. So, instead, we need more food. Enter: the cricket.
 
-Crickets are protein-rich, low-maintenance, and, crucially, unlikely to unionise. Excellent candidates for scalable nutrition. But there’s a catch:
+Crickets are protein-rich, low-maintenance, and, crucially, unlikely to unionise. Excellent candidates for scalable nutrition. But they dont exactly just spawn out of thin air into bbq flavoured cricket puffs.
 
 For companies to keep making crickets, they must profit from crickets. And to profit from crickets, they must produce crickets efficiently. This is complicated by the fact that crickets are small, numerous, and tragically uncooperative. Selfish, really.
 
 Thus: Research. With a capital R and a slightly manic glint in the eye.
-
 
 
 **Chapter 1: Make crickets researchable** | 
